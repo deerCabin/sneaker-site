@@ -1,4 +1,4 @@
 # sneaker-site
-A website layout created by looking at a design
+A website layout created from a reference design
 
 Design by https://www.frontendmentor.io/
